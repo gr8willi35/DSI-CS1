@@ -3,10 +3,11 @@ Cap Stone Project 1
 
 
 ## Data Science Immersive Capstone 1:
-    Modeling review score data- Using Welch's T-Test to determine if player base scope impacts review scores.
+Modeling review score data- Using Welch's T-Test to determine if player base scope impacts review scores.
     
 ### Introduction
-    Video games are immensely popular entertainment products with the industry seeing billions of dollars in revenue annually.  As someone who enjoys them I wanted to see how others view and play games and make decisions on which to purchase.  I chose 2 games for the project Halo and Hollow knight, which are both popular games with diffrent player scope and different play styles.  Hollow knight is a, indie style 2d "platform" style game with a higher entry barrier utilizing tight controls and a higher difficulty. Halo is a 1st person shooter and a triple A production game with great graphics and an innovative style of gameplay and player interaction.  Hollow knight being "indie" (or niche) and Halo being "Triple A" is the main distinction I wanted to observe. Halo had more purchase and downloads, but the reviews for Hollow Knight were more positive.  How does popularity and broad appeal relate to consumer ratings?
+
+Video games are immensely popular entertainment products with the industry seeing billions of dollars in revenue annually.  As someone who enjoys them I wanted to see how others view and play games and make decisions on which to purchase.  I chose 2 games for the project Halo and Hollow knight, which are both popular games with diffrent player scope and different play styles.  Hollow knight is a, indie style 2d "platform" style game with a higher entry barrier utilizing tight controls and a higher difficulty. Halo is a 1st person shooter and a triple A production game with great graphics and an innovative style of gameplay and player interaction.  Hollow knight being "indie" (or niche) and Halo being "Triple A" is the main distinction I wanted to observe. Halo had more purchase and downloads, but the reviews for Hollow Knight were more positive.  How does popularity and broad appeal relate to consumer ratings?
     
 The review data for HALO and Hollow Knight was gathered from the Steam platform API, and it included the reviewer id, positive or negative review of the game, and a vote count of other users perception of the review which contributed to a voter score.  As people find a review helpful the score increases helping good reviews rise to the top.
 
