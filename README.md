@@ -15,10 +15,12 @@ Null Hypothesis: The mean of a player's rated score for a niche game is equal to
 Alternate Hypothesis: The two means are statistically different.
 
 Likes vs. Dislikes:
-![image](https://user-images.githubusercontent.com/25779351/120391806-3496b480-c2f5-11eb-915f-9322bd2fd29a.png)
+
+<img src="https://user-images.githubusercontent.com/25779351/120391806-3496b480-c2f5-11eb-915f-9322bd2fd29a.png" alt="Likes vs. Dislikes" width="500" height="350">
 
 Mean Weighted Scores:
-![image](https://user-images.githubusercontent.com/25779351/120391849-437d6700-c2f5-11eb-8320-ecb79e05b855.png)
+
+<img src="https://user-images.githubusercontent.com/25779351/120391849-437d6700-c2f5-11eb-8320-ecb79e05b855.png" alt="Likes vs. Dislikes" width="500" height="350">
 
 Performing the test resulted in a statistic value of 2.52, and a p-value of .012 meaning the Null Hypo-Thesis can be rejected
 
