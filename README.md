@@ -1,8 +1,4 @@
-# DSI-CS1
-Cap Stone Project 1
-
-
-## Data Science Immersive Capstone 1:
+# Data Science Immersive Capstone 1:
 Modeling review score data- Using Welch's T-Test to determine if player base scope impacts review scores.
     
 ### Introduction
